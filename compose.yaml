@@ -1,1 +1,1 @@
-services:
+name: react_laravel_deploy_appservices:#mysql#backend#nginx#volume handle for mysql
