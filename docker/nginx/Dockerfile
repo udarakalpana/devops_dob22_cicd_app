@@ -1,0 +1,1 @@
+FROM ubuntu:latestLABEL authors="kalpana"ENTRYPOINT ["top", "-b"]
